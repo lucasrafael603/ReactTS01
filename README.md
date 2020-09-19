@@ -1,3 +1,12 @@
+
+## Projeto React - Utilização de API Publica do Github como base.
+
+### Neste projeto consumimos a API do GitHub para gerar as Issues de acordo com o repositorio selecionado.
+
+#### Segue as imagens da aplicação:
+![Home](projectGithub-part1.PNG)
+![Issues](projectGithub-part2.PNG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
